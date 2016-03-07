@@ -1,0 +1,39 @@
+E-boutique
+E-cigarette
+
+
+administrateur :
+	-id
+	-adresse mail
+	-mot de passe
+	-droit
+client:
+	-id
+	-nom
+	-prenom
+	-addresse
+	-ville
+	-code_postal
+	-pays
+	-numero telephone fixe
+	-numero telephone portable
+	-adresse mail
+	-mot de passe
+	-droit
+	-panier
+	-point fidelité
+
+stock:
+	e-liquide	cigarette simple
+		-reference
+		-marque
+		-nom
+		-description
+		-prix
+		-dosage
+		-quantité
+
+materiel
+	-chargeur
+	-clearomiseur
+
